@@ -87,14 +87,4 @@ The DIALux simulations were used to evaluate:
 
 Screenshots showing the 3D lighting model, luminaire layouts, and calculation results are available in the `Screenshots` folder.
 
-## Files
 
-- `Screenshots/` — DIALux model and simulation images
-- `Reports/` — Lighting calculation reports
-- `DIALux_Project/` — Original DIALux evo project files
-- `Drawings/` — Architectural drawings used for the lighting design
-
-## Author
-
-**Mohammed Sharaf Aldeen**  
-Electrical & Electronics Engineering
